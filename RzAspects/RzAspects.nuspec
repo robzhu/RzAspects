@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Robert Zhu</authors>
+    <owners>>Robert Zhu</owners>
+    <licenseUrl>http://license</licenseUrl>
+    <projectUrl>http://license</projectUrl>
+    <iconUrl>http://license</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.net Framework extensions and aspects.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags></tags>
+  </metadata>
+</package>
